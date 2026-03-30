@@ -1,5 +1,5 @@
 module unicart
 
-go 1.23.0
+go 1.25.0
 
-require golang.org/x/image v0.20.0
+require golang.org/x/image v0.38.0
